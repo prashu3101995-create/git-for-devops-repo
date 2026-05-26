@@ -11,5 +11,32 @@
    9 git log                                                                                                                                                                   
   10 git show 987d362fd3921350d358b112a9cdd1b6dd5b50ac:testing.py                                                                                                              
   11 clear                                                                                                                                                                     
-  12 git history                                                                                                                                                               
+  12 git history                                                                                                                                                
+  31 git remote -v                                                                                                                                                             
+  32 git push origin master                                                                                                                                                    
+  33 git branch                                                                                                                                                                
+  34 git push origin main                                                                                                                                                      
+  35 history                                                                                                                                                                   
+  36 git status                                                                                                                                                                
+  37 git add git_commands                                                                                                                                                      
+  38 git sttaus                                                                                                                                                                
+  39 git status                                                                                                                                                                
+  40 git commit -m "updated commands"                                                                                                                                          
+  41 git status                                                                                                                                                                
+  42 git push origin main                                                                                                                                                      
+  43 git push                                                                                                                                                                  
+  44 git status                                                                                                                                                                
+  45 git push origin main                                                                                                                                                      
+  46 clear                                                                                                                                                                     
+  47 git status                                                                                                                                                                
+  48 git restore git_commands                                                                                                                                                  
+  49 git status                                                                                                                                                                
+  50 git add git_commands                                                                                                                                                      
+  51 git commit -m "modified commands"                                                                                                                                         
+  52 git push origin main                                                                                                                                                      
+  53 git reset --soft HEAD~2...                                                                                                                                                
+  54 git commit -m "latest commands"                                                                                                                                           
+  55 git status                                                                                                                                                                
+  56 git push origin main                                                                                                                                                      
+  57 git log                 
 
