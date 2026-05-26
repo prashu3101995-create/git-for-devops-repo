@@ -1,0 +1,15 @@
+ Id CommandLine                                                                                                                                                               
+  -- -----------                                                                                                                                                               
+   1 try { . "c:\Users\Rani M\AppData\Local\Programs\Microsoft VS Code\f6cfa2ea24\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } cat...
+   2 git init                                                                                                                                                                  
+   3 git status                                                                                                                                                                
+   4 git add testing.py                                                                                                                                                        
+   5 git status                                                                                                                                                                
+   6 git commit -m "Added new file"                                                                                                                                            
+   7 git status                                                                                                                                                                
+   8 git branch                                                                                                                                                                
+   9 git log                                                                                                                                                                   
+  10 git show 987d362fd3921350d358b112a9cdd1b6dd5b50ac:testing.py                                                                                                              
+  11 clear                                                                                                                                                                     
+  12 git history                                                                                                                                                               
+
